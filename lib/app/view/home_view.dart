@@ -62,7 +62,7 @@ class _home_viewState extends State<home_view> {
                       child: Text(
                         "Codigo de barras",
                         style: TextStyle(
-                            fontSize: screamWidth * 0.1,
+                            fontSize: screamWidth * 0.09,
                             color: const Color.fromARGB(255, 51, 33, 243)),
                       ))),
             ),
